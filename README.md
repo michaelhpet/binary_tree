@@ -1,8 +1,6 @@
 # Binary trees
 
-A binary tree is a k-ary `k=2` tree data structure where each node can have a maximum of two children, known as the left child and the right child.
-
-This project uses `C` to explore the creation of the binary tree data structure, traversal, deletion and other algorithms related to binary trees.
+A binary tree is a k-ary `k=2` tree data structure where each node can have a maximum of two children, known as the left child and the right child. This project uses `C` to explore the creation of the binary tree data structure, traversal, deletion and other algorithms related to binary trees.
 
 ## Structs and typedefs
 
